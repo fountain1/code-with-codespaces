@@ -39,7 +39,10 @@ In this course, you will:
 4. Personalize your codespace
 
 ### How to start this course
-
+1. First
+1. Second
+1. Third
+   
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
   template_owner: 'skills',
